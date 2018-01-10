@@ -1,2 +1,2 @@
 # todo list 
-[] 仿照Preact 写一个 createElement 
+- [ ] 仿照Preact 写一个 createElement 
