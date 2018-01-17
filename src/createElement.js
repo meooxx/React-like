@@ -1,3 +1,4 @@
+//@flow
 
 const stack = []
 const EMPTY_ARRAY = []
